@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web-better-be-final/static/css/main.a617e044.chunk.css",
+    "main.js": "/web-better-be-final/static/js/main.533f099e.chunk.js",
+    "main.js.map": "/web-better-be-final/static/js/main.533f099e.chunk.js.map",
+    "runtime-main.js": "/web-better-be-final/static/js/runtime-main.d6c67ede.js",
+    "runtime-main.js.map": "/web-better-be-final/static/js/runtime-main.d6c67ede.js.map",
+    "static/js/2.080a8306.chunk.js": "/web-better-be-final/static/js/2.080a8306.chunk.js",
+    "static/js/2.080a8306.chunk.js.map": "/web-better-be-final/static/js/2.080a8306.chunk.js.map",
+    "static/js/3.a01f1c5a.chunk.js": "/web-better-be-final/static/js/3.a01f1c5a.chunk.js",
+    "static/js/3.a01f1c5a.chunk.js.map": "/web-better-be-final/static/js/3.a01f1c5a.chunk.js.map",
+    "index.html": "/web-better-be-final/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/web-better-be-final/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.080a8306.chunk.js.LICENSE.txt": "/web-better-be-final/static/js/2.080a8306.chunk.js.LICENSE.txt",
+    "static/media/image1.4a624c2c.svg": "/web-better-be-final/static/media/image1.4a624c2c.svg",
+    "static/media/image2.5c9ae0a6.svg": "/web-better-be-final/static/media/image2.5c9ae0a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6c67ede.js",
+    "static/js/2.080a8306.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.533f099e.chunk.js"
+  ]
+}
